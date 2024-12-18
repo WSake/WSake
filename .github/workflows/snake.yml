@@ -34,7 +34,7 @@ jobs:
       - name: apply dynamic background and animations
         run: |
           # 例如，使用 Python 脚本应用背景渐变、脉动效果等
-          python3 ./apply_svg_effects.py dist/github-contribution-grid-snake.svg
+          python3 apply_svg_effects.py dist/github-contribution-grid-snake.svg
 
       # 将生成的内容推送到输出分支进行展示
       - name: push github-contribution-grid-snake.svg to the output branch
