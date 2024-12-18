@@ -38,20 +38,20 @@
   </picture>
   
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WSake&show_icons=true&hide_border=true" alt="Y's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSake&layout=compact&theme=buefy&hide_border=true" />
   
   
   <!-- 活跃折线图 -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
   
   <div>&nbsp;</div>
   
   <!-- GitHub 奖杯🏆 -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <div><img src="https://github-profile-trophy.vercel.app/?username=WSake&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 </div>
 
@@ -64,7 +64,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/computer.png" />
 
 就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
 
