@@ -80,30 +80,6 @@
 
 <p>&emsp;&emsp;“我们不能解决我们创造的问题，我们必须超越它们。” —— 爱因斯坦</p
 
-</td></tr>
-
-<!-- 就读经历 -->
-<tr><td>
-
-### 🏢 Study Experience
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
-
-  - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
-
-    - 学院：信息与通信工程学院
-    - 专业：通信工程
-  
-<div>&nbsp;</div>
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
-
-  - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
-
-    - 学院：智能复杂体系基础理论与关键技术实验室
-    - 研究方向：机器学习，集成学习，大模型
-
-<div>&nbsp;</div>
-</td></tr>
 
 
 <div>&nbsp;</div>
