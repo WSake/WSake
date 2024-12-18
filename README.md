@@ -80,14 +80,13 @@
 
 · 📧 如果你也对医疗算法或者是大模型感兴趣，可以给我发邮件哦 📧
 
-<p>&emsp;&emsp;“We cannot solve our problems with the same thinking we used when we created them.” —— Einstein</p
+<p>&emsp;&emsp;“We cannot solve our problems with the same thinking we used when we created them.” —— Einstein</p>
 
 
 
 
 <div>&nbsp;</div>
-</td></tr>
-</table>
+
 
 
 
