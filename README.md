@@ -76,7 +76,9 @@
 
 · 👨‍🔬 Face the problem and solve it. 这是我的老师对我说的，他是一位优秀的教授
 
-· 👥 这是我的朋友，虽然我们不认识，但我觉得他很厉害 <a href="https://github.com/buptsdz" target="_blank">▶️Sue~</a>
+· 👥 这是我的朋友，虽然我们不认识，哈哈，但我觉得他很厉害 <a href="https://github.com/buptsdz" target="_blank">▶️Sue~</a>
+
+· 📧 如果你也对医疗算法或者是大模型感兴趣，可以给我发邮件哦 📧
 
 <p>&emsp;&emsp;“我们不能解决我们创造的问题，我们必须超越它们。” —— 爱因斯坦</p
 
@@ -90,18 +92,18 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" />
+    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/left.png" />
     <picture>
-      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
-      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=light&hide_border=true" />
-      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WSake&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=WSake&theme=light&hide_border=true" />
+      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WSake&theme=dark&hide_border=true" />
     </picture>
-    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
+    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/right.png" />
     <div>&nbsp;</div>
     <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/cxyduck.gif"/>
     <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/cxyduck.gif">
 </div>
 
 ### 🧰 Tools:
@@ -143,27 +145,19 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+  <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/icon.png" />
 </div>
 
 <!--
 **buptsdz/buptsdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+感谢 buptsdz 提供的代码库，它真的非常棒！😄👍✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+reference：https://github.com/buptsdz/buptsdz
