@@ -27,7 +27,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=WSake&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
-    <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
+    <!-- <a href="https://wakatime.com/@WSake"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
   
   <!-- 活跃贪吃蛇 -->
@@ -155,7 +155,7 @@
 </div>
 
 <!--
-**buptsdz/buptsdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**buptsdz/buptsdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 感谢 buptsdz 提供的代码库，它真的非常棒！😄👍✨
 
