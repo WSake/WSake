@@ -25,7 +25,7 @@
     <a href="https://kimi.moonshot.cn/" target="_blank"><img src="https://img.shields.io/badge/Kimi-Kimi-rgb(225, 224, 199)" /></a>&emsp;
     <a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-chatgpt-rgb(227, 52, 43)" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=WSake&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
     <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
