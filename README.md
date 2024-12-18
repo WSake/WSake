@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- dynamic typing effect 动态打字效果（https://github.com/denvercoder1/readme-typing-svg）-->
   <div>
     <a href="http://sue.sparkflare.cn/views/personal-introduction.html" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=1DE4F7&width=435&lines=I'm+WSake%2C+an+AI+engineer.+;Nice+to+meet+you!.&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=1DE4F7&width=435&lines=I'm+WSake%2C+an+AI+engineer.+;Nice+to+meet+you!&center=true&size=27" />
     </a>
   </div>
 
@@ -19,12 +19,11 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
-    <a href="https://www.xiaohongshu.com/user/profile/624e74200000000010005b95" target="_blank"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
-    <a href="https://www.yuque.com/u39067637" target="_blank"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
-    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="http://sue.sparkflare.cn/mulu/mulu1.html" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
-    <a href="http://www.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_49627776?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-CSDN博客-rgb(170, 220, 245)" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/monster-78-94-51" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-rgb(49, 204, 121)" /></a>&emsp;
+    <a href="https://space.bilibili.com/472159394?spm_id_from=333.788.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://kimi.moonshot.cn/" target="_blank"><img src="https://img.shields.io/badge/Kimi-Kimi-rgb(225, 224, 199)" /></a>&emsp;
+    <a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-chatgpt-rgb(227, 52, 43)" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
