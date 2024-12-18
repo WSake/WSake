@@ -1,40 +1,42 @@
 name: generate animation
 
 on:
-  # run automatically every 2 hours
+  # 每 2 小时自动运行
   schedule:
-    - cron: "0 */2 * * *" 
+    - cron: "0 */2 * * *"
   
-  # allows to manually run the job at any time
+  # 允许手动运行该任务
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # 每次推送到 master 分支时运行
   push:
     branches:
     - master
-  
-  
 
 jobs:
   generate:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10  # 增加超时时间以支持更多动画效果
   
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # 生成带有酷炫效果的贪吃蛇游戏 SVG
+      - name: generate github-contribution-grid-snake.svg with cool effects
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-  
-  
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+            dist/github-contribution-grid-snake.svg?palette=github-dark&effect=pulsing&snakeColor=gradient
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&effect=pulsing&snakeColor=gradient
+
+      # 可选步骤：应用动态背景和动画效果
+      - name: apply dynamic background and animations
+        run: |
+          # 例如，使用 Python 脚本应用背景渐变、脉动效果等
+          python3 apply_svg_effects.py dist/github-contribution-grid-snake.svg
+
+      # 将生成的内容推送到输出分支进行展示
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
