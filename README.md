@@ -57,30 +57,28 @@
 
 <div>&nbsp;</div>
 
-# Hello 👋, here is Sue ~
+# Hello 👋, here is WSake~
 
 <table>
 <!-- 个人介绍 -->
 <tr><td>
 
-### 🤺 About Me
+### 👨‍💻 自我介绍
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/computer.png" />
 
-就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+目前是一位初出茅庐的**AI算法工程师**，深度学习、大模型方向，未来未知😺
 
-- 🌱 以后的研究方向是频率方向的**机器学习**和集成学习，例如xgboost和bagging。
+· 📚 上学时，我在博客上分享过论文阅读笔记，里面有很多开源的项目，可能对您有一些帮助🔙<a href="https://blog.csdn.net/weixin_49627776?type=blog" target="_blank">Slientsakke的学习笔记</a>
 
-- 📚 目前正在学习线性代数和机器学习的基础知识，以及应用常见的机器学习模型解决问题。
+· 🛠️ 目前我的研究主要围绕LLM展开，探索如何将大模型Agent融合进医学影像分析、临床诊断等场景🏥
 
-- 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
+· ✨ 我不是很喜欢编程，但我对人工智能充满兴趣，Python因此变得更加生动🤖
 
-- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
+· 👨‍🔬 Face the problem and solve it. 这是我的老师对我说的，他是一位优秀的教授
 
-- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
+· 👥 这是我的朋友，虽然我们不认识，但我觉得他很厉害 <a href="https://github.com/buptsdz" target="_blank">▶️Sue~</a>
 
-- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
-
-<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
+<p>&emsp;&emsp;“我们不能解决我们创造的问题，我们必须超越它们。” —— 爱因斯坦</p
 
 </td></tr>
 
@@ -107,52 +105,6 @@
 <div>&nbsp;</div>
 </td></tr>
 
-<!-- 工作经历 -->
-<tr><td>
-
-### 🏭 Work Experience
-<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
-
-- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11-25 —— 至今
-
-  - 工作岗位：智能感知与识别实习生
-
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-
-<img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
-
-- [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06-07 —— 2024-11-05
-
-  - 工作岗位：AI4Science研究以及大模型实习生
-  - 工作内容：完成数据处理的pipeline的编排，大模型微调，推理，测评
-
-<div>&nbsp;</div>
-
-<img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
-
-- [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01-10 —— 至今
-
-  - 工作岗位：前端负责人，后端开发工程师
-  - 工作内容：参与软件平台开发，感受创业
-
-<div>&nbsp;</div>
-
-<img align="right" width="75" src="/assets/images/rusheng.png"/>
-
-- [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01-16 —— 2024.03.15
-
-  - 工作岗位：前端开发工程师
-  - 工作内容：数字化知识交互学习软件开发，uniapp+vue
-
-<div>&nbsp;</div>
-
-<img align="right" width="75" src="/assets/images/unionswap.png"/>
-
-- [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10-15 —— 2024.4.18
-
-  - 工作岗位：前端开发实习生
-  - 工作内容：海外二手交易平台开发，uniapp+vue
 
 <div>&nbsp;</div>
 </td></tr>
