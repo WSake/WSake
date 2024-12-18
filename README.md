@@ -64,7 +64,7 @@
 <tr><td>
 
 ### 👨‍💻 自我介绍
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/computer.png" />
+
 
 目前是一位初出茅庐的**AI算法工程师**，深度学习、大模型方向，未来未知😺
 
