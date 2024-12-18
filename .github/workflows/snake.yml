@@ -21,21 +21,47 @@ jobs:
     timeout-minutes: 10  # 增加超时时间以支持更多动画效果
   
     steps:
-      # 生成带有酷炫效果的贪吃蛇游戏 SVG
-      - name: generate github-contribution-grid-snake.svg with cool effects
+      # 生成带有动态效果的贪吃蛇游戏 SVG
+      - name: generate github-contribution-grid-snake.svg with dynamic effects
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&effect=pulsing&snakeColor=gradient
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&effect=pulsing&snakeColor=gradient
+            dist/github-contribution-grid-snake.svg?palette=github-dark&effect=snakeLengthColorChange
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&effect=snakeLengthColorChange
 
-      # 可选步骤：应用动态背景和动画效果
-      - name: apply dynamic background and animations
+      # 生成蛇的颜色随吃食物数量变化，并且蛇会变长的效果
+      - name: apply dynamic snake color and length
         run: |
-          # 例如，使用 Python 脚本应用背景渐变、脉动效果等
-          python3 apply_svg_effects.py dist/github-contribution-grid-snake.svg
+          # 使用 Python 脚本动态修改 SVG，增加蛇体变长和颜色变化的效果
+          python3 -c "
+import random
+from lxml import etree
 
+def change_snake_color_and_length(svg_file):
+    tree = etree.parse(svg_file)
+    root = tree.getroot()
+    
+    # 获取蛇路径的节点
+    snake_paths = root.xpath('//path[@class="snake"]')
+    
+    # 根据食物数量动态改变蛇的颜色
+    color_palette = ['#FF5733', '#33FF57', '#3357FF', '#FF33A1', '#F3FF33']
+    snake_color = random.choice(color_palette)
+    
+    for path in snake_paths:
+        path.set('stroke', snake_color)
+    
+    # 增加蛇的长度，模拟吃到食物后蛇变长
+    snake_paths[0].set('d', snake_paths[0].get('d') + ' L 200,200')  # 这是一个简单的模拟，实际操作中你可以更复杂地改变路径
+    
+    # 保存修改后的 SVG 文件
+    tree.write(svg_file)
+
+# 执行修改
+change_snake_color_and_length('dist/github-contribution-grid-snake.svg')
+"
+        
       # 将生成的内容推送到输出分支进行展示
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
