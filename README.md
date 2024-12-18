@@ -1,17 +1,17 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- dynamic typing effect 动态打字效果（https://github.com/denvercoder1/readme-typing-svg）-->
   <div>
     <a href="http://sue.sparkflare.cn/views/personal-introduction.html" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Sue, welcome here!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=1DE4F7&width=435&lines=I'm+WSake%2C+an+AI+engineer.+;Nice+to+meet+you!&center=true&size=27" />
     </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -19,23 +19,22 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
-    <a href="https://www.xiaohongshu.com/user/profile/624e74200000000010005b95" target="_blank"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
-    <a href="https://www.yuque.com/u39067637" target="_blank"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
-    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="http://sue.sparkflare.cn/mulu/mulu1.html" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
-    <a href="http://www.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_49627776?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-CSDN博客-rgb(170, 220, 245)" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/monster-78-94-51" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-rgb(49, 204, 121)" /></a>&emsp;
+    <a href="https://space.bilibili.com/472159394?spm_id_from=333.788.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://kimi.moonshot.cn/" target="_blank"><img src="https://img.shields.io/badge/Kimi-Kimi-rgb(225, 224, 199)" /></a>&emsp;
+    <a href="https://chatgpt.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-chatgpt-rgb(227, 52, 43)" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=WSake&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
     <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
   
   <!-- 活跃贪吃蛇 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WSake/WSake/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WSake/WSake/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WSake/WSake/output/github-contribution-grid-snake.svg">
   </picture>
   
   <!-- 个人信息统计 -->
