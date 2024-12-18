@@ -34,7 +34,7 @@ jobs:
       - name: apply dynamic snake color and length
         run: |
           # 使用 Python 脚本动态修改 SVG，增加蛇体变长和颜色变化的效果
-          python3 -c "
+          python3 - <<EOF
 import random
 from lxml import etree
 
@@ -60,7 +60,7 @@ def change_snake_color_and_length(svg_file):
 
 # 执行修改
 change_snake_color_and_length('dist/github-contribution-grid-snake.svg')
-"
+EOF
         
       # 将生成的内容推送到输出分支进行展示
       - name: push github-contribution-grid-snake.svg to the output branch
