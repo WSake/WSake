@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="http://sue.sparkflare.cn/views/personal-introduction.html" target="_blank">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm WSake, an AI engineer.&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=1DE4F7&width=435&lines=I'm+WSake%2C+an+AI+engineer.+;Nice+to+meet+you!.&center=true&size=27" />
     </a>
   </div>
 
