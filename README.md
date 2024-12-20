@@ -78,7 +78,7 @@
 
 · 👥 这是我的朋友，虽然我们不认识，哈哈，但我觉得他很厉害 <a href="https://github.com/buptsdz" target="_blank">▶️Sue~</a>
 
-· 📧 如果你也对医疗算法或者是大模型感兴趣，可以给我发邮件哦 📧
+· 📧 如果你也对医疗算法或者是大模型感兴趣，可以给我发[邮件](https://gmail.com/y852427@gmail.com)哦 📧
 
 <p>&emsp;&emsp;“We cannot solve our problems with the same thinking we used when we created them.” —— Einstein</p>
 
