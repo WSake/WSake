@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果（https://github.com/denvercoder1/readme-typing-svg）-->
   <div>
-    <a href="http://sue.sparkflare.cn/views/personal-introduction.html" target="_blank">
+    <a href="https://github.com/WSake/WSake" target="_blank">
       <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=1DE4F7&width=435&lines=I'm+WSake%2C+an+AI+engineer.+;Nice+to+meet+you!&center=true&size=27" />
     </a>
   </div>
