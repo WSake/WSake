@@ -6,11 +6,13 @@
   </a>
 
   <!-- 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/github.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/github.png" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/coding.gif" />
-  </picture>
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/github.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/github.png" height="225px" />
+      <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/coding.gif" align="center" />
+    </picture>
+  </div>
 
   <!-- 社交徽标 -->
   <div>
@@ -18,6 +20,7 @@
     <a href="https://www.zhihu.com/people/monster-78-94-51" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-rgb(49, 204, 121)" /></a>&emsp;
     <a href="https://space.bilibili.com/472159394" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="mailto:y852427@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335" /></a>&emsp;
+    <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4MTY0NDgxMg==&action=getalbum&album_id=4656241814189047811&scene=126&sessionid=#wechat_redirect" target="_blank"><img src="https://img.shields.io/badge/WeChat-公众号-07C160?logo=wechat&logoColor=fff" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=WSake&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
