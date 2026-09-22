@@ -95,15 +95,6 @@ Hi, I'm **WSake** (Slientsake) 👋
 
   <br/>
 
-  <!-- Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=WSake&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=WSake&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=WSake&theme=radical&hide_border=true" />
-  </picture>
-
-  <br/>
-
   <!-- Activity Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=react-dark&bg_color=FF000000&hide_border=true" />
@@ -123,22 +114,4 @@ Hi, I'm **WSake** (Slientsake) 👋
     <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 
-</div>
-
----
-
-## 🤝 Friends
-
-<div align="center">
-
-[![Sue](https://img.shields.io/badge/→_Sue-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buptsdz)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/icon.png" width="120" />
-  <br/>
-  <sub>⭐️ From <a href="https://github.com/WSake">WSake</a> with ❤️</sub>
 </div>
