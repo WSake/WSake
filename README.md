@@ -54,21 +54,28 @@ Hi, I'm **WSake** (Slientsake) 👋
 
 <div align="center">
 
-**Languages & Frameworks**
+**💻 Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,vuejs,django,nodejs,html,css" alt="Python, JavaScript, C, C++, Vue.js, Django, Node.js, HTML, CSS"/>
+</p>
 
-**AI & Data**
+**🤖 AI & Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000&style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,mongodb,mysql" alt="PyTorch, TensorFlow, FastAPI, MongoDB, MySQL"/>
+</p>
 
-**Tools & DevOps**
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
+**🛠️ Tools & DevOps**
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,anaconda,pycharm,linux,ubuntu,docker,nginx,git,postman,mongodb,c,cpp,python,js,vue,django,html,css"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,nginx,postman,pycharm,anaconda,vscode" alt="Git, Docker, Linux, Ubuntu, Nginx, Postman, PyCharm, Anaconda, VS Code"/>
+</p>
 
 </div>
 
