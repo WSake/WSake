@@ -87,31 +87,9 @@ Hi, I'm **WSake** (Slientsake) 👋
 
   <br/>
 
-  <!-- GitHub Stats & Top Languages -->
+  <!-- GitHub 统计卡(commit/repo/review/PR/issue) -->
   <a href="https://github.com/WSake">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WSake&show_icons=true&hide_border=true&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSake&layout=compact&theme=radical&hide_border=true" />
   </a>
-
-  <br/>
-
-  <!-- Activity Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=react-dark&bg_color=FF000000&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WSake&theme=react-dark&bg_color=FF000000&hide_border=true" />
-  </picture>
-
-  <br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=WSake&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-
-  <!-- 3D Contrib -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-gitblock.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/profile-3d-contrib/profile-night-rainbow.svg" />
-  </picture>
 
 </div>
