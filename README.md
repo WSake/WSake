@@ -1,27 +1,27 @@
 <div align="center">
 
-  <!-- 动态打字效果 -->
+  <!-- 动态打字效果(程序员字体/霓虹青,与贪吃蛇同色系) -->
   <a href="https://github.com/WSake" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=1DE4F7&width=435&lines=I'm+WSake%2C+an+LLM+engineer.+;Nice+to+meet+you!&center=true&size=27" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&height=70&size=28&lines=Hi!+I'm+WSake+%F0%9F%91%8B;LLM+Application+Engineer+%F0%9F%9A%80;Nice+to+meet+you!+%E2%98%95" width="620" height="70" />
   </a>
 
-  <!-- 敲代码的图片 -->
+  <br/>
+
+  <!-- 代码屏动图 -->
   <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/github.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/github.png" height="225px" />
-      <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/coding.gif" align="center" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/WSake/WSake/assets/images/coding.gif" width="480" align="center" alt="WSake 敲代码" />
   </div>
 
+  <br/>
+
   <!-- 社交徽标 -->
-  <div>
-    <a href="https://blog.csdn.net/weixin_49627776?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-rgb(170, 220, 245)" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/monster-78-94-51" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-rgb(49, 204, 121)" /></a>&emsp;
-    <a href="https://space.bilibili.com/472159394" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="mailto:y852427@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335" /></a>&emsp;
-    <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4MTY0NDgxMg==&action=getalbum&album_id=4656241814189047811&scene=126&sessionid=#wechat_redirect" target="_blank"><img src="https://img.shields.io/badge/WeChat-公众号-07C160?logo=wechat&logoColor=fff" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=WSake&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <div align="center">
+    <a href="https://blog.csdn.net/weixin_49627776?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-FC5230?style=for-the-badge&logo=csdn&logoColor=white" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/monster-78-94-51" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" /></a>&emsp;
+    <a href="https://space.bilibili.com/472159394" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" /></a>&emsp;
+    <a href="mailto:y852427@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
+    <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4MTY0NDgxMg==&action=getalbum&album_id=4656241814189047811&scene=126&sessionid=#wechat_redirect" target="_blank"><img src="https://img.shields.io/badge/WeChat-公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=WSake&label=Views&color=0e75b6&style=for-the-badge" alt="访问量统计" />
   </div>
 
 </div>
