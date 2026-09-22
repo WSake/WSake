@@ -17,7 +17,6 @@
   <!-- 社交徽标 -->
   <div align="center">
     <a href="https://blog.csdn.net/weixin_49627776?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-FC5230?style=for-the-badge&logo=csdn&logoColor=white" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/monster-78-94-51" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" /></a>&emsp;
     <a href="https://space.bilibili.com/472159394" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" /></a>&emsp;
     <a href="mailto:y852427@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
     <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4MTY0NDgxMg==&action=getalbum&album_id=4656241814189047811&scene=126&sessionid=#wechat_redirect" target="_blank"><img src="https://img.shields.io/badge/WeChat-公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>&emsp;
